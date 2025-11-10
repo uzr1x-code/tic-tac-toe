@@ -12,3 +12,21 @@ This project is a terminal-based Tic Tac Toe game where two players take turns m
 2. Run the game in the terminal:
    ```bash
    python tic_tac_toe.py
+   
+## Example Gameplay
+Player X, enter row (0-2): 0
+Player X, enter col (0-2): 0
+X |   |  
+---------
+  |   |  
+---------
+  |   |  
+
+Player O, enter row (0-2): 1
+Player O, enter col (0-2): 1
+X |   |  
+---------
+  | O |  
+---------
+  |   |  
+   
